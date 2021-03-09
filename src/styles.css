@@ -22,7 +22,7 @@ li a:hover {
 }
 
 .image {
-    max-width: 25%;
+    max-width: 50%;
     height: auto;
     display: block;
     margin: 30px auto;
